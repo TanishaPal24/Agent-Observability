@@ -263,13 +263,3 @@ The monitoring stack includes:
 4. Ensure all metrics and traces are properly instrumented
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [OpenTelemetry](https://opentelemetry.io/) for observability standards
-- [LangChain](https://langchain.com/) and [LangGraph](https://langchain-ai.github.io/langgraph/) for agent frameworks
-- [FastAPI](https://fastapi.tiangolo.com/) for the web framework
-- [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/) for monitoring stack
